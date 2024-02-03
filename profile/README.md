@@ -3,8 +3,8 @@
 # Welcome to Scripters Community! 🚀
 
 ![Scripters Community](https://img.shields.io/badge/Scripters-Community-blue.svg)
-![GitHub stars](https://img.shields.io/github/stars/ScriptersCommunity/YourRepository?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/ScriptersCommunity/YourRepository?style=social)
+![GitHub stars](https://img.shields.io/github/stars/ScriptersCommunity?style=social)
+
 
 ## About Us 🌐
 
@@ -29,11 +29,3 @@ We love contributions! Check our [contribution guidelines](CONTRIBUTING.md) for 
 - [GitHub Organization](https://github.com/ScriptersCommunity)
 
 Happy coding! 🖥️✨
-
-**Some starting points for you:**
-
-📝 A brief introduction - what sets your organization apart?
-🌟 Contribution guidelines - how can the community dive in?
-📚 Useful resources - where to find docs and additional info?
-🎉 Fun facts - something quirky about your team?
-💡 Remember, the magic of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) can make your README shine!
